@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h3> About me </h3>
+
+<p> I am Kanykei Nurmambetova, <b>A Cross-Platform Developer</b> (specializing in android mobile and front-end web development), pursuing my Bachelors of Applied Science in Management Engineeering. </p>
+
+![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)
+
+
+<!-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) -->
+
 <!--
 **Kaneake/Kaneake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
