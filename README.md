@@ -1,11 +1,23 @@
 ## Hi there 👋
 
-
+<!DOCTYPE html>
+<html>
+<body>
+  
 <h3> About me </h3>
 
 <p> I am Kanykei Nurmambetova, <b>A Cross-Platform Developer</b> (specializing in android mobile and front-end web development), pursuing my Bachelors of Applied Science in Management Engineeering. </p>
+<div>
+  
+<a href="https://www.linkedin.com/in/kanykei-nurmambetova/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2">
+</a>
 
-![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)
+
+</div>
+</body>
+</html>
+
 
 
 <!-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) -->
